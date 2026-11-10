@@ -1,0 +1,7 @@
+Product: jhaji.creator
+Version: 2.0.0
+Publisher: Keshav Kumar
+Package: Universal laptop + mobile ZIP
+Laptop: extension/ (Chrome, Edge, Brave)
+Android: extension/ in extension-compatible browser OR pwa/ hosted on HTTPS
+iPhone: pwa/ hosted on HTTPS
